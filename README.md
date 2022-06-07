@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with [CalculatorNutri](https://github.com/aureliengremy/calculator-nutri)
 
-- 👨‍💻 All of my projects are available at [IN PROGRESS]([IN PROGRESS](https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80))
+- 👨‍💻 All of my projects are available at [IN PROGRESS](https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)
 
-- 📝 I regularly write articles on [It will happen]([It will happen](https://images.unsplash.com/photo-1562630426-5942d5363820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80))
+- 📝 I regularly write articles on [It will happen](https://images.unsplash.com/photo-1562630426-5942d5363820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 - 💬 Ask me about **Front-end, weather, music**
 
