@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aurelien Gremy</h1>
+<h1 align="center">Hi 🤘, I'm Aurelien Gremy</h1>
 <h3 align="center">Don't worry, be happy coding!</h3>
 
 - 🔭 I’m currently working on [UberEatTracker](https://github.com/aureliengremy/uberEatTracker)
