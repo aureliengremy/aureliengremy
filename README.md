@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘, I'm Aurelien Gremy</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Don't+worry%2C+be+happy+coding!)](https://git.io/typing-svg)</h3>
+<h3 align="center">Don't worry, be happy coding!</h3>
 
 - 🔭 I’m currently working on [UberEatTracker](https://github.com/aureliengremy/uberEatTracker)
 
