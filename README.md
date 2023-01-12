@@ -21,8 +21,8 @@
 
 <br>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliengremy&show_icons=true&theme=dracula)
+
 
 
 <h3 align="left">Connect with me:</h3>
