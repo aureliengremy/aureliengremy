@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=Don't+worry%2C+be+happy+coding!)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on [UberEatTracker](https://github.com/aureliengremy/uberEatTracker)
+- 🔭 I’m currently working on [CalculatorNutri](https://github.com/aureliengremy/calculator-nutri)
 
 - 🌱 I’m currently learning **ReactJS -> Redux**
 
-- 🤝 I’m looking for help with [CalculatorNutri](https://github.com/aureliengremy/calculator-nutri)
+- 🤝 I’m looking for help with [UberEatTracker](https://github.com/aureliengremy/uberEatTracker)
 
 - 👨‍💻 All of my projects are available at [IN PROGRESS](https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)
 
