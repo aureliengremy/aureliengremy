@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CalculatorNutri](https://github.com/aureliengremy/calculator-nutri)
 
-- 🌱 I’m currently learning **ReactJS -> NextJS**
+- 🌱 I’m currently learning **Laravel / Vue**
 
 - 🤝 I’m looking for help with [UberEatTracker](https://github.com/aureliengremy/uber-eat-tracker)
 
